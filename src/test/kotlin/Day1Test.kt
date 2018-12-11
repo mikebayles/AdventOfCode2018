@@ -1,4 +1,4 @@
-import com.mikebayles.aoc.day1.Day1
+import com.mikebayles.aoc.Day1
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

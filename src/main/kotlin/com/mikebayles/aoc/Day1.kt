@@ -1,4 +1,4 @@
-package com.mikebayles.aoc.day1
+package com.mikebayles.aoc
 
 import java.io.File
 
